@@ -28,4 +28,4 @@ To run this dashboard locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NicholasRico/housing-dashboard.git
+   git clone https://github.com/NicholasRico/housing-price-dashboard.git
