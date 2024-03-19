@@ -23,9 +23,22 @@ This project aims to provide insights into housing sales trends and performance 
 
 ## Installation
 
-To run this dashboard locally, follow these steps:
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/NicholasRico/housing-price-dashboard.git
+## How to Run the Dashboard Locally
+
+To run the dashboard locally on your computer, follow these steps:
+
+```bash
+# 1. Clone the Repository
+git clone https://github.com/NicholasRico/housing-price-dashboard.git
+
+# 2. Navigate to the Project Directory
+cd housing-price-dashboard
+
+# 3. Install Dependencies
+pip install -r requirements.txt
+
+# 4. Run the Dashboard
+python hdash.py
+
